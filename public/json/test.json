@@ -1,0 +1,18 @@
+[
+    {
+        "trackNum":0,
+        "isMuch":0,
+        "timeTap":"0:23"
+    },
+    {
+        "trackNum":1,
+        "isMuch":0,
+        "timeTap":"0:24"
+    },
+    {
+        "trackNum":1,
+        "isMuch":1,
+        "timeTap":"0:24-0:26"
+    },
+    {"timelength":"2:24"}
+]
